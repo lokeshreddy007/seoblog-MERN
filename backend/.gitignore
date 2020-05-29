@@ -1,0 +1,4 @@
+// npm install express mongoose body-parser cookie-parser morgan nodemon dotenv cors
+// npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html shortid
+
+node_modules
